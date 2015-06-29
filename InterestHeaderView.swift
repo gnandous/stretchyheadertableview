@@ -2,8 +2,8 @@
 //  InterestHeaderView.swift
 //  Interests
 //
-//  Created by Duc Tran on 6/13/15.
-//  Copyright © 2015 Developer Inspirus. All rights reserved.
+//  Created by Soul on 6/13/15.
+//  Copyright © 2015  All rights reserved.
 //
 
 import UIKit
